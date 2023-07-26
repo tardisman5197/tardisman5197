@@ -4,8 +4,11 @@
   - Rust
   - Multi-Agent Systems
   - Other things ...   
-- 🌱 I’m currently in the Software Enginneering Masters Program at Oxford
-  - Quantum Computing (currently)
+- 🌱 I’m currently in the Software Engineering Masters Program at Oxford
+  - Quantum Computing
+  - Embedded Systems
+  - Software Engineering Mathematics
+  - Security Principles
 - 📫 How to reach me tadisman5197.github@opayq.com
 
 <!---
